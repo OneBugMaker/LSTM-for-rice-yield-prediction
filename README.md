@@ -44,5 +44,3 @@
 
 最后，code有三个*.ipynb的文件，其中Rice-9-16-Zao.ipynb和Rice-9-16-Wan.ipynb，
 分别记录了早稻和晚稻预测模型的建立和训练过程。
-
-联系作者：1074158090@qq.com
